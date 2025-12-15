@@ -1,4 +1,4 @@
-#📘 Trabalho Final – Computação Gráfica#
+#📘 Trabalho Final – Computação Gráfica #
 
 Animação 3D com Three.js
 
